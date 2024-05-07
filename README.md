@@ -29,7 +29,3 @@ Once `pip` has finished downloading the dependencies:
 (venv)$ python manage.py migrate
 (venv)$ python manage.py runserver
 ```
-Here is a postman collection to check APIs
-```sh
-https://api.postman.com/collections/12941465-b68d7cbe-57cf-4328-8a6e-43d0a68b5718
-```
